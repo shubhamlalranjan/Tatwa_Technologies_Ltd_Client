@@ -1,9 +1,9 @@
 # Client (Dynamic Sidenav)
 
 ## How to Config API
-To config the Api end point you need to look at **api** inside the **src** folder.
-<p> Base Url is in the http.js </p>
-Request route needs to be config inside the **src/api/user**
+To config the Base Url of Api endpoint you need to look at **src/api*/http.js** . 
+<p></p>
+For Request route needs to be config inside the **src/api/user**
 
 ### Important 
   Request is Calling to backend from the **DrawerMenuList** Component
